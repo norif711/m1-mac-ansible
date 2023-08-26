@@ -1,6 +1,6 @@
 # m1-mac-ansible
 ```
-$git clone https://github.com/norif711/m1-mac-ansible.git  
+$curl -O https://github.com/norif711/m1-mac-ansible/blob/main/setting.sh  
 $chmod 755 ./setting.sh  
 $sh ./setting.sh
 ```  
