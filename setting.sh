@@ -12,7 +12,7 @@ xcode-select --install
 brew install ansible
 
 ## clone repo
-git clone -b template https://github.com/norif711/m1-mac-ansible.git ${ANSIBLE_PATH}
+git clone -b main https://github.com/norif711/m1-mac-ansible.git ${ANSIBLE_PATH}
 
 ## ansible
 cd ${ANSIBLE_PATH}
